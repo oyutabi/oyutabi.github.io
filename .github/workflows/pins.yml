@@ -9,6 +9,7 @@ on:
 
 permissions:
   contents: write
+  pages: write
 
 concurrency:
   group: pins
@@ -35,3 +36,7 @@ jobs:
           git add pins
           git commit -m "ピンをフィードに追加（自動）"
           git push
+          # 自動の保存ではサイトが作り直されないことがあるので、作り直しを明示して頼む
+          curl -sS -X POST -H "Authorization: Bearer ${GITHUB_TOKEN}" -H "Accept: application/vnd.github+json" "https://api.github.com/repos/${GITHUB_REPOSITORY}/pages/builds"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
