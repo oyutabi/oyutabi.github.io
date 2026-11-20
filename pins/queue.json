@@ -94,8 +94,8 @@
   "image": "https://oyutabi.github.io/pins/img/05-burnout/pin02.jpg",
   "image_bytes": 202802,
   "guid": "oyutabi-pin-05-burnout-pin02",
-  "shipped": false,
-  "shipped_at": null
+  "shipped": true,
+  "shipped_at": "2026-11-20"
  },
  {
   "id": "05-burnout-pin03",
@@ -178,8 +178,8 @@
   "image": "https://oyutabi.github.io/pins/img/07-knowledge/pin02.jpg",
   "image_bytes": 171321,
   "guid": "oyutabi-pin-07-knowledge-pin02",
-  "shipped": false,
-  "shipped_at": null
+  "shipped": true,
+  "shipped_at": "2026-11-20"
  },
  {
   "id": "07-knowledge-pin03",
@@ -234,8 +234,8 @@
   "image": "https://oyutabi.github.io/pins/img/08-solo-trip/pin02.jpg",
   "image_bytes": 229477,
   "guid": "oyutabi-pin-08-solo-trip-pin02",
-  "shipped": false,
-  "shipped_at": null
+  "shipped": true,
+  "shipped_at": "2026-11-20"
  },
  {
   "id": "12-seasonal-pin01",
