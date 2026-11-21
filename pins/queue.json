@@ -108,8 +108,8 @@
   "image": "https://oyutabi.github.io/pins/img/05-burnout/pin03.jpg",
   "image_bytes": 243109,
   "guid": "oyutabi-pin-05-burnout-pin03",
-  "shipped": false,
-  "shipped_at": null
+  "shipped": true,
+  "shipped_at": "2026-11-21"
  },
  {
   "id": "06-deep-dive-pin01",
@@ -136,8 +136,8 @@
   "image": "https://oyutabi.github.io/pins/img/06-deep-dive/pin02.jpg",
   "image_bytes": 233474,
   "guid": "oyutabi-pin-06-deep-dive-pin02",
-  "shipped": false,
-  "shipped_at": null
+  "shipped": true,
+  "shipped_at": "2026-11-21"
  },
  {
   "id": "06-deep-dive-pin03",
@@ -192,8 +192,8 @@
   "image": "https://oyutabi.github.io/pins/img/07-knowledge/pin03.jpg",
   "image_bytes": 211315,
   "guid": "oyutabi-pin-07-knowledge-pin03",
-  "shipped": false,
-  "shipped_at": null
+  "shipped": true,
+  "shipped_at": "2026-11-21"
  },
  {
   "id": "07-knowledge-pin04",
