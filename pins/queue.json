@@ -206,8 +206,8 @@
   "image": "https://oyutabi.github.io/pins/img/07-knowledge/pin04.jpg",
   "image_bytes": 397438,
   "guid": "oyutabi-pin-07-knowledge-pin04",
-  "shipped": false,
-  "shipped_at": null
+  "shipped": true,
+  "shipped_at": "2026-11-22"
  },
  {
   "id": "08-solo-trip-pin01",
