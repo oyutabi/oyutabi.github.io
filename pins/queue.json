@@ -305,7 +305,8 @@
   "image_bytes": 171839,
   "guid": "oyutabi-pin-06-deep-dive-pin04",
   "shipped": false,
-  "shipped_at": null
+  "shipped_at": null,
+  "not_before": "2026-11-25"
  },
  {
   "id": "06-deep-dive-pin06",
@@ -319,7 +320,8 @@
   "image_bytes": 225298,
   "guid": "oyutabi-pin-06-deep-dive-pin06",
   "shipped": false,
-  "shipped_at": null
+  "shipped_at": null,
+  "not_before": "2026-11-25"
  },
  {
   "id": "06-deep-dive-pin07",
@@ -333,7 +335,8 @@
   "image_bytes": 330138,
   "guid": "oyutabi-pin-06-deep-dive-pin07",
   "shipped": false,
-  "shipped_at": null
+  "shipped_at": null,
+  "not_before": "2026-11-25"
  },
  {
   "id": "06-deep-dive-pin08",
@@ -346,6 +349,148 @@
   "image": "https://oyutabi.github.io/pins/img/06-deep-dive/pin08.jpg",
   "image_bytes": 307656,
   "guid": "oyutabi-pin-06-deep-dive-pin08",
+  "shipped": false,
+  "shipped_at": null,
+  "not_before": "2026-11-25"
+ },
+ {
+  "id": "06-deep-dive-pin05",
+  "board_slug": "06-deep-dive",
+  "board": "温泉宿の深掘り（一軒まるごと）",
+  "plan": "三朝温泉 清流荘｜深掘り",
+  "title": "清流荘｜深掘り｜お湯・食事・アクセスで選ぶ一軒宿",
+  "description": "鳥取県・三朝温泉の一軒。ラドン泉で知られる湯の町に泊まる。倉吉駅から送迎あり。 #温泉 #温泉宿 #ひとり旅 #温泉処方箋 #三朝温泉",
+  "link": "https://oyutabi.github.io/?inn=130086&pin=06-deep-dive-pin05",
+  "image": "https://oyutabi.github.io/pins/img/06-deep-dive/pin05.jpg",
+  "image_bytes": 301234,
+  "guid": "oyutabi-pin-06-deep-dive-pin05",
+  "shipped": false,
+  "shipped_at": null,
+  "not_before": "2026-11-25"
+ },
+ {
+  "id": "12-seasonal-pin04",
+  "board_slug": "12-seasonal",
+  "board": "季節の温泉宿",
+  "plan": "酸ヶ湯温泉旅館｜雪見の温泉宿",
+  "title": "酸ヶ湯温泉旅館｜雪見の温泉宿｜冬に選ぶ宿",
+  "description": "青森県・八甲田の酸ヶ湯温泉。総ヒバ造りで160畳の混浴大浴場「ヒバ千人風呂」がある。JR青森駅からバスで70分。写真は雪の時期の宿。 #温泉 #温泉宿 #ひとり旅 #温泉処方箋 #雪見温泉 #酸ヶ湯温泉",
+  "link": "https://oyutabi.github.io/?inn=41009&pin=12-seasonal-pin04",
+  "image": "https://oyutabi.github.io/pins/img/12-seasonal/pin04.jpg",
+  "image_bytes": 345673,
+  "guid": "oyutabi-pin-12-seasonal-pin04",
+  "shipped": true,
+  "shipped_at": "2026-11-24"
+ },
+ {
+  "id": "12-seasonal-pin05",
+  "board_slug": "12-seasonal",
+  "board": "季節の温泉宿",
+  "plan": "新穂高温泉 槍見館｜雪見の温泉宿",
+  "title": "槍見館｜雪見の温泉宿｜冬に選ぶ宿",
+  "description": "岐阜県・奥飛騨の新穂高温泉。槍ヶ岳を望む混浴露天風呂「槍見の湯」と、貸切の露天風呂が4つある。高山駅からバスで中尾高原口へ行き、徒歩8分。写真は雪の時期の露天風呂。 #温泉 #温泉宿 #ひとり旅 #温泉処方箋 #雪見温泉 #新穂高温泉",
+  "link": "https://oyutabi.github.io/?inn=109100&pin=12-seasonal-pin05",
+  "image": "https://oyutabi.github.io/pins/img/12-seasonal/pin05.jpg",
+  "image_bytes": 252162,
+  "guid": "oyutabi-pin-12-seasonal-pin05",
+  "shipped": false,
+  "shipped_at": null
+ },
+ {
+  "id": "12-seasonal-pin06",
+  "board_slug": "12-seasonal",
+  "board": "季節の温泉宿",
+  "plan": "松之山温泉 和泉屋｜雪見の温泉宿",
+  "title": "和泉屋｜雪見の温泉宿｜冬に選ぶ宿",
+  "description": "新潟県・松之山温泉。全5室の宿で、風呂はすべて貸切制。ほくほく線まつだい駅からバスで約25分。写真は雪の時期の風呂。 #温泉 #温泉宿 #ひとり旅 #温泉処方箋 #雪見温泉 #松之山温泉",
+  "link": "https://oyutabi.github.io/?inn=153680&pin=12-seasonal-pin06",
+  "image": "https://oyutabi.github.io/pins/img/12-seasonal/pin06.jpg",
+  "image_bytes": 316387,
+  "guid": "oyutabi-pin-12-seasonal-pin06",
+  "shipped": false,
+  "shipped_at": null
+ },
+ {
+  "id": "02-sleep-pin02",
+  "board_slug": "02-sleep",
+  "board": "眠れない夜に効く温泉宿",
+  "plan": "城崎温泉 泉翠｜静かな温泉宿",
+  "title": "泉翠｜静かな温泉宿｜部屋と立地で選ぶ宿",
+  "description": "兵庫県・城崎温泉。全13室で、12歳未満は泊まれない。客室にテレビは無く、貸切風呂が3つある。 #温泉 #温泉宿 #ひとり旅 #温泉処方箋 #静かな宿 #城崎温泉",
+  "link": "https://oyutabi.github.io/?inn=7597&pin=02-sleep-pin02",
+  "image": "https://oyutabi.github.io/pins/img/02-sleep/pin02.jpg",
+  "image_bytes": 178577,
+  "guid": "oyutabi-pin-02-sleep-pin02",
+  "shipped": true,
+  "shipped_at": "2026-11-24"
+ },
+ {
+  "id": "02-sleep-pin03",
+  "board_slug": "02-sleep",
+  "board": "眠れない夜に効く温泉宿",
+  "plan": "谷地温泉｜静かな温泉宿",
+  "title": "谷地温泉｜静かな温泉宿｜部屋と立地で選ぶ宿",
+  "description": "青森県・八甲田の山中に建つ宿。湯は足元から湧く源泉かけ流しで、浴槽は38℃と42℃の2つ。 #温泉 #温泉宿 #ひとり旅 #温泉処方箋 #静かな宿 #谷地温泉",
+  "link": "https://oyutabi.github.io/?inn=149172&pin=02-sleep-pin03",
+  "image": "https://oyutabi.github.io/pins/img/02-sleep/pin03.jpg",
+  "image_bytes": 190608,
+  "guid": "oyutabi-pin-02-sleep-pin03",
+  "shipped": false,
+  "shipped_at": null
+ },
+ {
+  "id": "02-sleep-pin04",
+  "board_slug": "02-sleep",
+  "board": "眠れない夜に効く温泉宿",
+  "plan": "泥湯温泉 奥山旅館｜静かな温泉宿",
+  "title": "奥山旅館｜静かな温泉宿｜部屋と立地で選ぶ宿",
+  "description": "秋田県・泥湯温泉。全9室の宿。源泉は3つあり、風呂は露天風呂が3つと内湯が2つ。 #温泉 #温泉宿 #ひとり旅 #温泉処方箋 #静かな宿 #泥湯温泉",
+  "link": "https://oyutabi.github.io/?inn=141266&pin=02-sleep-pin04",
+  "image": "https://oyutabi.github.io/pins/img/02-sleep/pin04.jpg",
+  "image_bytes": 245200,
+  "guid": "oyutabi-pin-02-sleep-pin04",
+  "shipped": false,
+  "shipped_at": null
+ },
+ {
+  "id": "03-people-fatigue-pin02",
+  "board_slug": "03-people-fatigue",
+  "board": "人疲れに効く温泉宿",
+  "plan": "皆生游月｜部屋で完結する温泉宿",
+  "title": "皆生游月｜部屋で完結する温泉宿｜客室の風呂で選ぶ宿",
+  "description": "鳥取県・皆生温泉。全客室に温泉の露天風呂が付く。JR米子駅からバスかタクシーで15分。 #温泉 #温泉宿 #ひとり旅 #温泉処方箋 #客室露天風呂 #皆生温泉",
+  "link": "https://oyutabi.github.io/?inn=168732&pin=03-people-fatigue-pin02",
+  "image": "https://oyutabi.github.io/pins/img/03-people-fatigue/pin02.jpg",
+  "image_bytes": 223504,
+  "guid": "oyutabi-pin-03-people-fatigue-pin02",
+  "shipped": true,
+  "shipped_at": "2026-11-24"
+ },
+ {
+  "id": "03-people-fatigue-pin03",
+  "board_slug": "03-people-fatigue",
+  "board": "人疲れに効く温泉宿",
+  "plan": "辰口温泉 まつさき｜部屋で完結する温泉宿",
+  "title": "まつさき｜部屋で完結する温泉宿｜客室の風呂で選ぶ宿",
+  "description": "石川県・辰口温泉。温泉の風呂が付く客室が24室ある。JR小松駅から車で20分。 #温泉 #温泉宿 #ひとり旅 #温泉処方箋 #客室露天風呂 #辰口温泉",
+  "link": "https://oyutabi.github.io/?inn=38847&pin=03-people-fatigue-pin03",
+  "image": "https://oyutabi.github.io/pins/img/03-people-fatigue/pin03.jpg",
+  "image_bytes": 365635,
+  "guid": "oyutabi-pin-03-people-fatigue-pin03",
+  "shipped": false,
+  "shipped_at": null
+ },
+ {
+  "id": "03-people-fatigue-pin04",
+  "board_slug": "03-people-fatigue",
+  "board": "人疲れに効く温泉宿",
+  "plan": "平湯温泉 深山桜庵｜部屋で完結する温泉宿",
+  "title": "深山桜庵｜部屋で完結する温泉宿｜客室の風呂で選ぶ宿",
+  "description": "岐阜県・平湯温泉。離れの特別室8室に温泉の露天風呂が付く。平湯温泉バス停から徒歩約7分。 #温泉 #温泉宿 #ひとり旅 #温泉処方箋 #客室露天風呂 #平湯温泉",
+  "link": "https://oyutabi.github.io/?inn=65440&pin=03-people-fatigue-pin04",
+  "image": "https://oyutabi.github.io/pins/img/03-people-fatigue/pin04.jpg",
+  "image_bytes": 346527,
+  "guid": "oyutabi-pin-03-people-fatigue-pin04",
   "shipped": false,
   "shipped_at": null
  }
