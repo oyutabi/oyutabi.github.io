@@ -292,5 +292,61 @@
   "guid": "oyutabi-pin-14-cold-pin01",
   "shipped": true,
   "shipped_at": "2026-11-19"
+ },
+ {
+  "id": "06-deep-dive-pin04",
+  "board_slug": "06-deep-dive",
+  "board": "温泉宿の深掘り（一軒まるごと）",
+  "plan": "銀波荘｜深掘り",
+  "title": "銀波荘｜深掘り｜お湯・食事・アクセスで選ぶ一軒宿",
+  "description": "兵庫県・赤穂温泉の一軒。湯は塩化物泉。冷えがつらい日に選ぶ宿。 #温泉 #温泉宿 #ひとり旅 #温泉処方箋 #冷え性 #塩化物泉 #赤穂温泉",
+  "link": "https://oyutabi.github.io/?inn=19403&pin=06-deep-dive-pin04",
+  "image": "https://oyutabi.github.io/pins/img/06-deep-dive/pin04.jpg",
+  "image_bytes": 171839,
+  "guid": "oyutabi-pin-06-deep-dive-pin04",
+  "shipped": false,
+  "shipped_at": null
+ },
+ {
+  "id": "06-deep-dive-pin06",
+  "board_slug": "06-deep-dive",
+  "board": "温泉宿の深掘り（一軒まるごと）",
+  "plan": "湯治屋｜深掘り",
+  "title": "湯治屋｜深掘り｜お湯・食事・アクセスで選ぶ一軒宿",
+  "description": "岩手県・花巻市、大沢温泉の湯治宿。露天風呂「大沢の湯」と自炊の滞在で、長く湯に浸かる日々を。 #温泉 #温泉宿 #温泉処方箋 #湯治 #大沢温泉",
+  "link": "https://oyutabi.github.io/?inn=107854&pin=06-deep-dive-pin06",
+  "image": "https://oyutabi.github.io/pins/img/06-deep-dive/pin06.jpg",
+  "image_bytes": 225298,
+  "guid": "oyutabi-pin-06-deep-dive-pin06",
+  "shipped": false,
+  "shipped_at": null
+ },
+ {
+  "id": "06-deep-dive-pin07",
+  "board_slug": "06-deep-dive",
+  "board": "温泉宿の深掘り（一軒まるごと）",
+  "plan": "グランヴィリオホテル宇奈月温泉｜深掘り",
+  "title": "グランヴィリオホテル宇奈月温泉｜深掘り｜お湯・食事・アクセスで選ぶ一軒宿",
+  "description": "富山県・黒部市、宇奈月温泉のホテル。天然温泉の名は「美肌の湯」。宇奈月温泉駅から徒歩約5分。 #温泉 #温泉宿 #ひとり旅 #温泉処方箋 #宇奈月温泉 #美肌の湯",
+  "link": "https://oyutabi.github.io/?inn=184485&pin=06-deep-dive-pin07",
+  "image": "https://oyutabi.github.io/pins/img/06-deep-dive/pin07.jpg",
+  "image_bytes": 330138,
+  "guid": "oyutabi-pin-06-deep-dive-pin07",
+  "shipped": false,
+  "shipped_at": null
+ },
+ {
+  "id": "06-deep-dive-pin08",
+  "board_slug": "06-deep-dive",
+  "board": "温泉宿の深掘り（一軒まるごと）",
+  "plan": "つるや｜深掘り",
+  "title": "つるや｜深掘り｜お湯・食事・アクセスで選ぶ一軒宿",
+  "description": "福井県・あわら温泉の一軒。お風呂の評価が高い宿。 #温泉 #温泉宿 #ひとり旅 #温泉処方箋 #あわら温泉",
+  "link": "https://oyutabi.github.io/?inn=84652&pin=06-deep-dive-pin08",
+  "image": "https://oyutabi.github.io/pins/img/06-deep-dive/pin08.jpg",
+  "image_bytes": 307656,
+  "guid": "oyutabi-pin-06-deep-dive-pin08",
+  "shipped": false,
+  "shipped_at": null
  }
 ]
