@@ -393,8 +393,8 @@
   "image": "https://oyutabi.github.io/pins/img/12-seasonal/pin05.jpg",
   "image_bytes": 252162,
   "guid": "oyutabi-pin-12-seasonal-pin05",
-  "shipped": false,
-  "shipped_at": null
+  "shipped": true,
+  "shipped_at": "2026-11-24"
  },
  {
   "id": "12-seasonal-pin06",
@@ -435,8 +435,8 @@
   "image": "https://oyutabi.github.io/pins/img/02-sleep/pin03.jpg",
   "image_bytes": 190608,
   "guid": "oyutabi-pin-02-sleep-pin03",
-  "shipped": false,
-  "shipped_at": null
+  "shipped": true,
+  "shipped_at": "2026-11-24"
  },
  {
   "id": "02-sleep-pin04",
@@ -477,8 +477,8 @@
   "image": "https://oyutabi.github.io/pins/img/03-people-fatigue/pin03.jpg",
   "image_bytes": 365635,
   "guid": "oyutabi-pin-03-people-fatigue-pin03",
-  "shipped": false,
-  "shipped_at": null
+  "shipped": true,
+  "shipped_at": "2026-11-24"
  },
  {
   "id": "03-people-fatigue-pin04",
