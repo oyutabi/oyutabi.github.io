@@ -304,8 +304,8 @@
   "image": "https://oyutabi.github.io/pins/img/06-deep-dive/pin04.jpg",
   "image_bytes": 171839,
   "guid": "oyutabi-pin-06-deep-dive-pin04",
-  "shipped": false,
-  "shipped_at": null,
+  "shipped": true,
+  "shipped_at": "2026-11-25",
   "not_before": "2026-11-25"
  },
  {
@@ -449,8 +449,8 @@
   "image": "https://oyutabi.github.io/pins/img/02-sleep/pin04.jpg",
   "image_bytes": 245200,
   "guid": "oyutabi-pin-02-sleep-pin04",
-  "shipped": false,
-  "shipped_at": null
+  "shipped": true,
+  "shipped_at": "2026-11-25"
  },
  {
   "id": "03-people-fatigue-pin02",
@@ -491,7 +491,7 @@
   "image": "https://oyutabi.github.io/pins/img/03-people-fatigue/pin04.jpg",
   "image_bytes": 346527,
   "guid": "oyutabi-pin-03-people-fatigue-pin04",
-  "shipped": false,
-  "shipped_at": null
+  "shipped": true,
+  "shipped_at": "2026-11-25"
  }
 ]
