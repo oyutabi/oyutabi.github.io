@@ -319,8 +319,8 @@
   "image": "https://oyutabi.github.io/pins/img/06-deep-dive/pin06.jpg",
   "image_bytes": 225298,
   "guid": "oyutabi-pin-06-deep-dive-pin06",
-  "shipped": false,
-  "shipped_at": null,
+  "shipped": true,
+  "shipped_at": "2026-11-26",
   "not_before": "2026-11-25"
  },
  {
@@ -334,8 +334,8 @@
   "image": "https://oyutabi.github.io/pins/img/06-deep-dive/pin07.jpg",
   "image_bytes": 330138,
   "guid": "oyutabi-pin-06-deep-dive-pin07",
-  "shipped": false,
-  "shipped_at": null,
+  "shipped": true,
+  "shipped_at": "2026-11-26",
   "not_before": "2026-11-25"
  },
  {
@@ -407,8 +407,8 @@
   "image": "https://oyutabi.github.io/pins/img/12-seasonal/pin06.jpg",
   "image_bytes": 316387,
   "guid": "oyutabi-pin-12-seasonal-pin06",
-  "shipped": false,
-  "shipped_at": null
+  "shipped": true,
+  "shipped_at": "2026-11-26"
  },
  {
   "id": "02-sleep-pin02",
