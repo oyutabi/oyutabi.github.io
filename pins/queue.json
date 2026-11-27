@@ -349,8 +349,8 @@
   "image": "https://oyutabi.github.io/pins/img/06-deep-dive/pin08.jpg",
   "image_bytes": 307656,
   "guid": "oyutabi-pin-06-deep-dive-pin08",
-  "shipped": false,
-  "shipped_at": null,
+  "shipped": true,
+  "shipped_at": "2026-11-27",
   "not_before": "2026-11-25"
  },
  {
@@ -364,8 +364,8 @@
   "image": "https://oyutabi.github.io/pins/img/06-deep-dive/pin05.jpg",
   "image_bytes": 301234,
   "guid": "oyutabi-pin-06-deep-dive-pin05",
-  "shipped": false,
-  "shipped_at": null,
+  "shipped": true,
+  "shipped_at": "2026-11-27",
   "not_before": "2026-11-25"
  },
  {
